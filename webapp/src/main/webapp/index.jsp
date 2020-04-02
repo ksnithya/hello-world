@@ -4,5 +4,3 @@
 <h2> Also deploy in container</h2>
 <h2>Deploy using Ansible</h2>
 <h2>Deploy using ansible playbook</h2>
-<h2> Deploy By Nithay K S </h2>
-<h2>Venkatesh B</h2>
